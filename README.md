@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm a software engineering student.<br>🌱 I’m currently learning mobile<br>💬 Ask me about: https://www.linkedin.com/in/emre-demirel-9a724a192/<br>
+🔭 I'm a software engineering student.<br>🌱 I’m currently learning mobile<br>💬 Ask me about: https://www.linkedin.com/in/demirel-emre/<br>
 
 
 ## 🌐 Socials:
